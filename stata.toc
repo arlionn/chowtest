@@ -1,0 +1,5 @@
+v 1.0
+d Author: Qunyong, Wang, Institute of Statistics and Econometrics, Nankai University.
+d chowtest performs Chow test for structure break.
+d {browse "https://github.com/arlionn/chowtest":GitHub} website
+p chowtest

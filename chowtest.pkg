@@ -1,0 +1,7 @@
+
+v 1.0
+d Author: Qunyong, Wang, Institute of Statistics and Econometrics, Nankai University.
+d chowtest performs Chow test
+d Distribution-Date: 2018.10.31
+f chowtest.ado
+f chowtest.sthlp
